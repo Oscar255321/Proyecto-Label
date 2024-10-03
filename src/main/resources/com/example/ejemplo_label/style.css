@@ -1,0 +1,11 @@
+.fancy-label {
+    -fx-font-size: 24px;
+    -fx-font-family: "Arial";
+    -fx-text-fill: #ff6600;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-padding: 10px;
+    -fx-background-color: lightblue;
+    -fx-border-radius: 10;
+    -fx-background-radius: 10;
+}
